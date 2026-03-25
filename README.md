@@ -15,13 +15,13 @@ the idea was i fast hackpad project with cool visuals. so i made it with a minec
 
 ## Bill of Materials (BOM)
 
-| Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| WS2812B | the leds | 10 | $3.41 | $3.41 | [AliExpress Link](https://www.aliexpress.com/item/1005006030835058.html) |
-| xiao rp2040 | the microcontroller | 1 | $6.62 | $6.62 | [AliExpress Link](https://he.aliexpress.com/item/1005007427287029.html) |
-| PCB | the pcb | 5 | $2.00 | $8.89 | [Elecrow Link](https://www.elecrow.com) |
-| 0.91 Inch 128x32 Blue OLED | the screen | 1 | $1.92 | $1.92 | [AliExpress Link](https://he.aliexpress.com/item/1005010346222668.html?mp=1&gatewayAdapt=glo2isr) |
-| 100pcs/lot 1N4148W SOD-123 SMD | the diode | 100 | $2.01 | $2.01 | [AliExpress Link](https://he.aliexpress.com/item/1005007160279747.html) |
+| Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL                                                                                               |
+| :--- | :--- | :--- |:---------------|:----------------|:--------------------------------------------------------------------------------------------------|
+| WS2812B | the leds | 10 | $3.41          | $3.41           | [AliExpress Link](https://www.aliexpress.com/item/1005006030835058.html)                          |
+| xiao rp2040 | the microcontroller | 1 | $5.10          | $6.40           | [AliExpress Link](https://he.aliexpress.com/item/1005008200917480.html)                           |
+| PCB | the pcb | 5 | $2.00          | $8.89           | [Elecrow Link](https://www.elecrow.com)                                                           |
+| 0.91 Inch 128x32 Blue OLED | the screen | 1 | $1.92          | $1.92           | [AliExpress Link](https://he.aliexpress.com/item/1005010346222668.html?mp=1&gatewayAdapt=glo2isr) |
+| 100pcs/lot 1N4148W SOD-123 SMD | the diode | 100 | $2.01          | $2.01           | [AliExpress Link](https://he.aliexpress.com/item/1005007160279747.html)                           |
 
 ## Firmware
 
