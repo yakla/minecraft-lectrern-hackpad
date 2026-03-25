@@ -4,10 +4,10 @@ A custom 6-key mechanical macro pad inspired by the Minecraft Lectern, designed 
 ## The Vision
 the idea was i fast hackpad project with cool visuals. so i made it with a minecraft lectren block.
 ## Technical Specs
-* **Controller:** Seeed Studio XIAO ESP32-C3
+* **Controller:** Seeed Studio XIAO RP2040
 * **Keys:** 6 Mechanical Switches (3x2 Matrix)
 * **Visuals:** 128x32 OLED Display + WS2812B RGB LEDs
-* **Firmware:** QMK 
+* **Firmware:** KMK / CircuitPython
 
 ## Design Process
 - **CAD:** Designed in **Onshape**.
@@ -24,3 +24,5 @@ the idea was i fast hackpad project with cool visuals. so i made it with a minec
 | 100pcs/lot 1N4148W SOD-123 SMD | the diode | 100 | $2.01 | $2.01 | [AliExpress Link](https://he.aliexpress.com/item/1005007160279747.html) |
 
 ## Firmware
+
+KMK files for this board is in [`firmware/`](./firmware).

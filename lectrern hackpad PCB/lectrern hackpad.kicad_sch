@@ -2228,7 +2228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P7.62mm_Vertical_KathodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 212.09 97.79 0)
 			(effects
 				(font
@@ -2316,7 +2316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P7.62mm_Vertical_KathodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 240.03 97.79 0)
 			(effects
 				(font
@@ -2606,7 +2606,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P7.62mm_Vertical_KathodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 212.09 118.11 0)
 			(effects
 				(font
@@ -3419,7 +3419,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P7.62mm_Vertical_KathodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 240.03 118.11 0)
 			(effects
 				(font
@@ -3575,7 +3575,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P7.62mm_Vertical_KathodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 226.06 118.11 0)
 			(effects
 				(font
@@ -3872,7 +3872,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P7.62mm_Vertical_KathodeUp"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 226.06 97.79 0)
 			(effects
 				(font
