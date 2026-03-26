@@ -22,3 +22,6 @@ the idea was i fast hackpad project with cool visuals. so i made it with a minec
 | PCB | the pcb | 5 | $2.00          | $8.89           | [Elecrow Link](https://www.elecrow.com)                                                           |
 | 0.91 Inch 128x32 Blue OLED | the screen | 1 | $1.92          | $1.92           | [AliExpress Link](https://he.aliexpress.com/item/1005010346222668.html?mp=1&gatewayAdapt=glo2isr) |
 | 100pcs/lot 1N4148W SOD-123 SMD | the diode | 100 | $2.01          | $2.01           | [AliExpress Link](https://he.aliexpress.com/item/1005007160279747.html)                           |
+
+## cad
+<img width="1931" height="1381" alt="image" src="https://github.com/user-attachments/assets/aa24b1e1-f8d2-464a-945f-c726625ca225" />
