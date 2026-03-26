@@ -10,7 +10,7 @@ the idea was i fast hackpad project with cool visuals. so i made it with a minec
 * **Firmware:** KMK / CircuitPython
 
 ## Design Process
-- **CAD:** Designed in **Onshape**.
+- **CAD:** Designed in **Onshape**. https://cad.onshape.com/documents/4aa1c7f92bdb34f3150a863a/w/03df906dbdf565c718d04fe4/e/68b5d359d9c8e5f142904c5d?renderMode=0&uiState=69c481ee307fe18aded3200f
 - **PCB:** Custom 2-layer board designed in **KiCad** with SMD diode protection.
 
 ## Bill of Materials (BOM)
