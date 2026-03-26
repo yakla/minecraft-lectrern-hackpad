@@ -25,6 +25,7 @@ the idea was i fast hackpad project with cool visuals. so i made it with a minec
 
 ## cad
 <img width="1931" height="1381" alt="image" src="https://github.com/user-attachments/assets/aa24b1e1-f8d2-464a-945f-c726625ca225" />
+
 ## pcb design
 <img width="1413" height="899" alt="image" src="https://github.com/user-attachments/assets/e3bb46cb-19c9-49c4-9ef5-3888eb0af53c" />
 <img width="1446" height="1098" alt="image" src="https://github.com/user-attachments/assets/32724f85-95e3-4735-bc65-05c4ce102ef6" />
