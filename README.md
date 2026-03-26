@@ -2,7 +2,7 @@
 A custom 6-key mechanical macro pad inspired by the Minecraft Lectern, designed for the **Hack Club Blueprint**.
 
 ## The Vision
-the idea was i fast hackpad project with cool visuals. so i made it with a minecraft lectren block.
+the idea was i fast hackpad project with cool visuals. so i made it with a minecraft lectern block.
 ## Technical Specs
 * **Controller:** Seeed Studio XIAO RP2040
 * **Keys:** 6 Mechanical Switches (3x2 Matrix)
